@@ -1,0 +1,19 @@
+p{font-family: Arial, Helvetica, sans-serif;
+    color: #a193c0;
+}
+.titulo{
+    color: #9d97d8ab;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ultimoparagrafo{
+    text-align: center;
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    border-radius: 8px;
+}
